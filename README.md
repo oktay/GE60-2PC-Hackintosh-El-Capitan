@@ -57,3 +57,6 @@ Benim cihazımda AR9285 takılı olduğu için. AtherosWiFiInjector.kext ve IOat
 | Name* | Find* [HEX] | Replace* [HEX] | Comment |
 | ------ | ----------- |---------------|---------|
 | AirPortAtheros40   | 0000680C2A | 0000680C2B | Patch AR9285 |
+
+## Credits
+KLM: https://www.insanelymac.com/forum/topic/306370-msi-laptop-steelseries-light-controller/
